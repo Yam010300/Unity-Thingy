@@ -1,2 +1,2 @@
 # Unity-Thingy
-not sure what to add here
+My road in learning Unity2D C#
