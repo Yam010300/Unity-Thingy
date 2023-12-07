@@ -1,0 +1,13 @@
+#08/12/2023
+#so i seperate it into 3 file
+#
+#Player Movement, is just a simple Movement2D the only change is that i havent add speed change if
+#Player are Talking, however it will in the future
+#
+#TriggerTalking is a script for checking if player are in the correct area by giving TextScript
+#a talking ID that will be talk in TextScript section, it done so TriggerTalking can be used
+#by other Object.
+#
+#TextScript is the one iniate the talking and condition to start talking it also contain all the word to talk to
+#based on Talking ID and TextIndex this atleast at this moment is another big step on my learning Unity2d and
+#i am quite Happy :)
