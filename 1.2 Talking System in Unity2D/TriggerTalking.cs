@@ -27,7 +27,7 @@ public class TriggerTalking : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         TalkingArea = true;
-        TextSC.TalkingID = "Daniel01";
+        TextSC.TalkingID = gameObject.name;                ##Using gameobject name as TalkingID##
         
     }
     private void OnTriggerExit2D(Collider2D collision)
