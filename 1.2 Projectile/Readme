@@ -1,0 +1,2 @@
+##in this version i separate the code into 3 distinct code, face for what character is facing it follow mouse position, Gun for Instatiate the bullet, and
+Projectile Behaviour i haven't refined the code to make it more efficient and anything fancy like that but i will try##
